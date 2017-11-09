@@ -5,7 +5,7 @@ Plugin Name: Advanced Custom Fields: IcoFont
 Plugin URI: https://wordpress.org/plugins/advanced-custom-fields-icofont/
 Description: Adds a new 'IcoFont Icon' field to the popular Advanced Custom Fields plugin.
 Version: 1.0.0
-Author: jaszczomp
+Author: ekawalec
 Author URI: http://s4studio.pl/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
