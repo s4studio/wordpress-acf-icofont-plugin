@@ -1,0 +1,21 @@
+.acf-field-setting-icofont_live_preview .acf-input i,
+.acf-input .icon_preview i,
+.field_option_icofont .icfnt_live_preview i {
+	font-size: 50px;
+}
+
+.acf-input .icon_preview i {
+	margin: 0 0 10px 0;
+}
+
+.field_type-icofont .icon_preview i {
+	font-size: 50px;
+	margin: 0 0 10px 0;
+}
+
+.field_option_icofont .chosen-container,
+.field_type-icofont .chosen-container,
+.icofont-select2,
+.icofont-select2-drop {
+	font-family: IcoFont,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
