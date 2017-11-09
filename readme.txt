@@ -11,7 +11,7 @@ Adds a new 'IcoFont Icon' field to the popular Advanced Custom Fields plugin.
 
 == Description ==
 
-Add a [IconFont](http://icofont.io/) icon field type to Advanced Custom Fields.
+Add a [IcoFont](http://icofont.com/) icon field type to Advanced Custom Fields.
 
 * Optionally set a default icon
 * Returns Icon Element, Icon Class, Icon Unicode, or an Object including the element, class, and unicode value
